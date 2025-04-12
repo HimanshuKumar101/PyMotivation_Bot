@@ -11,13 +11,13 @@ PyMotivator is a Python project that sends motivational quotes to a specified ph
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/PyMotivation_Bot.git
+
+   git clone https://github.com/HimanshuKumar101/PyMotivation_Bot.git
    cd PyMotivator
    ```
 
 2. Create and activate a virtual environment:
-   ```sh
+   
    python -m venv env
    .\env\Scripts\activate  # For Windows
    source env/bin/activate  # For macOS/Linux
